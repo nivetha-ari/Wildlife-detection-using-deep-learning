@@ -1,5 +1,5 @@
 # Wildlife-detection-using-deep-learning
-This project aims to tackle the critical issue of wildlife conservation by employing state of the art deep learning techniques. Leveraging the YOLOv4 algorithm, we have developed a robust system capable of detecting various wildlife species in images and video streams.
+This project aims to tackle the critical issue of wildlife conservation by employing state of the art deep learning techniques. Leveraging the YOLOv4 algorithm, we have developed a robust system capable of detecting various wildlife species in images and video streams and a IOT based alerting system using telegram bot
 
 Key Features:
 
@@ -15,8 +15,7 @@ Key Features:
 
 6.Customization and Fine-tuning: Our project encourages users to fine-tune the pre-trained models on specific wildlife species or environments, empowering researchers to adapt the system to their unique conservation challenges.
 
-7.Documentation and Tutorials: Comprehensive documentation and tutorials are provided to guide users through installation, usage, and customization of the wildlife detection system, catering to both beginners and advanced users.
-
+7.Real time implementaion: By the use of Node MCU ,cameras An alerting system using Telegram bot is created.
 8.Community Support: We foster a vibrant community where researchers, developers, and conservationists can collaborate, share insights, and contribute to the advancement of wildlife conservation through deep learning technology.
 
 By making our project open-source on GitHub, we aspire to democratize access to cutting-edge technology for wildlife conservation, ultimately contributing to the protection and preservation of our planet's precious biodiversity. Join us in the fight to safeguard wildlife populations for future generations.
